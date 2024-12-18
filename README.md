@@ -45,7 +45,7 @@ This program is free to use and modify. Please cite the Salsa20 algorithm if usi
 
 ### 1. Ensure You Have a C Compiler Installed
 
-Make sure you have a C compiler installed on your system (e.g., GCC, Clang).
+Make sure you have a C compiler installed on your system (e.g GCC).
 
 ### 2. Prepare Your Files
 
